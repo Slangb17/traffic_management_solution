@@ -1,0 +1,1 @@
+export GAZEBO_MODEL_PATH="$(ros2 pkg prefix traffic_management)/share/traffic_management/models"

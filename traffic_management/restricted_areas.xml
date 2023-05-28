@@ -1,0 +1,5 @@
+<library path="traffic_management">
+  <class name="restricted_areas_costmap_plugin/RestrictedAreas" type="restricted_areas_costmap_plugin::RestrictedAreas" base_class_type="nav2_costmap_2d::Layer">
+    <description>Restricted areas</description>
+  </class>
+</library>

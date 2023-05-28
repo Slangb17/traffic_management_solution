@@ -1,0 +1,5 @@
+<library path="traffic_management">
+	<class name="tm_navfn_planner/NavfnPlanner" type="tm_navfn_planner::NavfnPlanner" base_class_type="nav2_core::GlobalPlanner">
+	  <description></description>
+	</class>
+</library>

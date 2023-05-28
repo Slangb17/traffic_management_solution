@@ -1,0 +1,5 @@
+<library path="traffic_management">
+  <class name="traffic_lanes_costmap_plugin/TrafficLanes" type="traffic_lanes_costmap_plugin::TrafficLanes" base_class_type="nav2_costmap_2d::Layer">
+    <description>For adding directed lanes to a costmap</description>
+  </class>
+</library>
